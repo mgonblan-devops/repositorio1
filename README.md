@@ -1,2 +1,2 @@
 # repositorio1
-Propia Edición
+Editar con Github las cuestiones
